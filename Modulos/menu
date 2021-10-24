@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@bielsilva713 
+bielsilva713
+/
+SSHPLUS-MANAGER-FREE
+Public
+forked from bielsilva713/SSHPLUS-MANAGER-FREE
+0
+0170
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+SSHPLUS-MANAGER-FREE/Modulos/menu
+@bielsilva713
+bielsilva713 Update Script
+Latest commit 0c6a834 on 29 Dec 2020
+ History
+ 1 contributor
+423 lines (420 sloc)  15.4 KB
+   
 #!/bin/bash
 fun_bar () {
 comando[0]="$1"
@@ -178,7 +209,7 @@ _userexp=$(printf '%-5s' "$_expuser")
 _tuser=$(awk -F: '$3>=1000 {print $1}' /etc/passwd | grep -v nobody | wc -l)
 clear
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[41;1;37m               ⇱ SSHPLUS MANAGER ⇲                \E[0m"
+echo -e "\E[41;1;37m               ⇱ FAST NETCBA MANAGER ⇲                \E[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "\033[1;32mSISTEMA            MEMÓRIA RAM      PROCESSADOR "
 echo -e "\033[1;31mOS: \033[1;37m$_system \033[1;31mTotal:\033[1;37m$_ram \033[1;31mNucleos: \033[1;37m$_core\033[0m"
@@ -291,7 +322,7 @@ _userexp=$(printf '%-5s' "$_expuser")
 _tuser=$(awk -F: '$3>=1000 {print $1}' /etc/passwd | grep -v nobody | wc -l)
 clear
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[41;1;37m               ⇱ SSHPLUS MANAGER ⇲                \E[0m"
+echo -e "\E[41;1;37m               ⇱ FAST NETCBA MANAGER ⇲                \E[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "\033[1;32mSISTEMA            MEMÓRIA RAM      PROCESSADOR "
 echo -e "\033[1;31mOS: \033[1;37m$_system \033[1;31mTotal:\033[1;37m$_ram \033[1;31mNucleos: \033[1;37m$_core\033[0m"
@@ -421,3 +452,16 @@ done
 }
 menu
 #fim
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
