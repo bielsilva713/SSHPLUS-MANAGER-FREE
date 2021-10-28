@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/bielsilva713/SSHPLUS-MANAGER-FREE/master/versa
 
 1. @crazy_vpn - Developer of SSHPlus Manager
 2. illuminati Dev Team - Contributor 
+3. Modificado por @admifam / @fastnetcba
 
 ```
 ☆ https://t.me/fastnetcba [  ⃘⃤꙰✰ ] ☆
