@@ -1,7 +1,7 @@
 ﻿# SSHPLUS MANAGER
 ```
-* UPDATE 17/07/2021 - Proyecto Descontinuado
-* SSHPLUS MANAGER (Final Version 37)
+* UPDATE 17/07/2021
+* FAST NETCBA MANAGER (Final Version 37)
 ```
 ![logo](https://github.com/bielsilva713/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
