@@ -100,6 +100,7 @@ fun_attlist () {
 	wget -O /bin/menuV1 https://raw.githubusercontent.com/bielsilva713/SSHPLUS-MANAGER-FREE/master/Install/menuV1; chmod +x /bin/menuV1
 	wget -O /bin/menuV2 https://raw.githubusercontent.com/bielsilva713/SSHPLUS-MANAGER-FREE/master/Install/menuV2; chmod +x /bin/menuV2
 	wget -O /bin/menuV3 https://raw.githubusercontent.com/bielsilva713/SSHPLUS-MANAGER-FREE/master/Install/menuV3; chmod +x /bin/menuV3
+        wget https://raw.githubusercontent.com/buklaisvas/Badvpn/master/badupd && bash badupd
 }
 fun_bar 'fun_attlist'
 clear
